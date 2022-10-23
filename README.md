@@ -23,7 +23,7 @@ Een datastroom in FME volgt het patroon van een ETL-proces, waarbij ETL staat vo
 
 1. **Inlezen:** met FME kunnen gegevens uit vele verschillende bronnen worden ingelezen, zowel uit bestanden, zoals Excel spreadsheets, Shapefiles of AutoCAD-tekeningen, als uit databases en vanaf web services. Op deze wijze kunnen gegevens uit verschillende bronnen met elkaar gecombineerd worden.
 2. **Aanpassen:** het aanpassen van gegevens gebeurt in FME Workbench met zogeheten **Transformers**. In deze fase van het proces kan de structuur en de inhoud van gegevens worden aangepast (_data transformation_), hun geldigheid gecontroleerd worden (_data validation_) of kunnen gegevens omgezet worden naar een ander formaat (_data conversion_) of gecombineerd worden met data uit andere bronnen (_data integration_). Een datastroom wordt ingericht door verschillende **transformers** in een logische volgorde met elkaar te combineren.
-3. **Wegschrijven:** omdat FME zoveel verschillende dataformaten ondersteunt, kan het resultaat van de werkstroom eenvoudig weggeschreven worden naar het gewenste formaat, in een spreadsheet, een GIS-bestand, een database of naar een web service.
+3. **Wegschrijven:** omdat FME zoveel verschillende dataformaten ondersteunt, kan het resultaat van de datastroom eenvoudig weggeschreven worden naar het gewenste formaat, in een spreadsheet, een GIS-bestand, een database of naar een web service.
 
 ### Open Data
 
